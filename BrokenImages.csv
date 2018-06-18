@@ -3780,125 +3780,98 @@ Parameter name: bytes, GraphicsMagick.MagickImage::Read
 2016/2016-05-30-rock-school-lets-rock-the-park-5-diamonds/5-diamonds-live-at-lets-rock-the-park-2016-09/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
 2016/2016-05-30-rock-school-lets-rock-the-park-5-diamonds/5-diamonds-live-at-lets-rock-the-park-2016-10/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
 2016/2016-05-30-rock-school-lets-rock-the-park-5-diamonds/5-diamonds-live-at-lets-rock-the-park-2016-11/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
-2016/2016-05-30-rock-school-lets-rock-the-park-5-diamonds/5-diamonds-live-at-lets-rock-the-park-2016-12/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
-2016/2016-05-30-rock-school-lets-rock-the-park-5-diamonds/5-diamonds-live-at-lets-rock-the-park-2016-13/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
-2016/2016-05-30-rock-school-lets-rock-the-park-5-diamonds/5-diamonds-live-at-lets-rock-the-park-2016-14/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
+2016/2016-05-30-rock-school-lets-rock-the-park-5-diamonds/5-diamonds-live-at-lets-rock-the-park-2016-12/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-5-diamonds/5-diamonds-live-at-lets-rock-the-park-2016-13/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-5-diamonds/5-diamonds-live-at-lets-rock-the-park-2016-14/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
 2016/2016-05-30-rock-school-lets-rock-the-park-5-diamonds/5-diamonds-live-at-lets-rock-the-park-2016-15/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-5-diamonds/5-diamonds-live-at-lets-rock-the-park-2016-16/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
-2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-01/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
+2016/2016-05-30-rock-school-lets-rock-the-park-5-diamonds/5-diamonds-live-at-lets-rock-the-park-2016-16/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-01/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
 2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-02/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-03/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
+2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-03/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
 2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-04/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
 2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-05/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-06/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
-2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-07/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
-2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-08/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
-2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-09/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
-2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-10/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
-2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-11/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
-2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-12/, An unexpected network error occurred.
+2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-06/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-13/, An unexpected network error occurred.
+2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-07/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-08/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-09/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-10/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-11/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-12/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Archiles\Archiles live at Lets Rock the Park 2016 12.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-13/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Archiles\Archiles live at Lets Rock the Park 2016 13.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-14/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
 2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-15/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-16/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-16/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Archiles\Archiles live at Lets Rock the Park 2016 16.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-17/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
 2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-18/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
 2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-19/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-20/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-20/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
 2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-21/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-22/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-23/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-24/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-25/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-26/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-27/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-28/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-29/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-30/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-31/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-32/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-33/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-34/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-35/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-36/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-37/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-38/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-01/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-02/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-03/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-04/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-05/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-06/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-07/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-08/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-09/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-10/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-11/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-12/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-13/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-14/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
-2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-15/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
-2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-16/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-22/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
+2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-23/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Archiles\Archiles live at Lets Rock the Park 2016 23.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-24/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Archiles\Archiles live at Lets Rock the Park 2016 24.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-25/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Archiles\Archiles live at Lets Rock the Park 2016 25.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-26/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Archiles\Archiles live at Lets Rock the Park 2016 26.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-27/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Archiles\Archiles live at Lets Rock the Park 2016 27.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-28/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Archiles\Archiles live at Lets Rock the Park 2016 28.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-29/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Archiles\Archiles live at Lets Rock the Park 2016 29.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-30/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Archiles\Archiles live at Lets Rock the Park 2016 30.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-31/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Archiles\Archiles live at Lets Rock the Park 2016 31.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-32/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Archiles\Archiles live at Lets Rock the Park 2016 32.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-33/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Archiles\Archiles live at Lets Rock the Park 2016 33.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-34/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Archiles\Archiles live at Lets Rock the Park 2016 34.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-35/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Archiles\Archiles live at Lets Rock the Park 2016 35.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-36/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Archiles\Archiles live at Lets Rock the Park 2016 36.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-37/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Archiles\Archiles live at Lets Rock the Park 2016 37.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-archiles/archiles-live-at-lets-rock-the-park-2016-38/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Archiles\Archiles live at Lets Rock the Park 2016 38.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-01/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Castaways\Castaways live at Lets Rock the Park 2016 01.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-02/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Castaways\Castaways live at Lets Rock the Park 2016 02.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-03/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Castaways\Castaways live at Lets Rock the Park 2016 03.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-04/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Castaways\Castaways live at Lets Rock the Park 2016 04.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-05/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Castaways\Castaways live at Lets Rock the Park 2016 05.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-06/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Castaways\Castaways live at Lets Rock the Park 2016 06.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-07/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Castaways\Castaways live at Lets Rock the Park 2016 07.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-08/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Castaways\Castaways live at Lets Rock the Park 2016 08.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-09/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Castaways\Castaways live at Lets Rock the Park 2016 09.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-10/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Castaways\Castaways live at Lets Rock the Park 2016 10.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-11/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Castaways\Castaways live at Lets Rock the Park 2016 11.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-12/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Castaways\Castaways live at Lets Rock the Park 2016 12.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-13/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Castaways\Castaways live at Lets Rock the Park 2016 13.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-14/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Castaways\Castaways live at Lets Rock the Park 2016 14.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-15/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Castaways\Castaways live at Lets Rock the Park 2016 15.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-16/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Castaways\Castaways live at Lets Rock the Park 2016 16.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-17/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Castaways\Castaways live at Lets Rock the Park 2016 17.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-18/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Castaways\Castaways live at Lets Rock the Park 2016 18.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-19/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-20/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
-2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-21/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-19/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Castaways\Castaways live at Lets Rock the Park 2016 19.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-20/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Castaways\Castaways live at Lets Rock the Park 2016 20.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-21/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Castaways\Castaways live at Lets Rock the Park 2016 21.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-22/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Castaways\Castaways live at Lets Rock the Park 2016 22.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-23/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-courtney/courtney-acoustic-set-live-at-lets-rock-the-park-2016-01/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
-2016/2016-05-30-rock-school-lets-rock-the-park-courtney/courtney-acoustic-set-live-at-lets-rock-the-park-2016-02/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
-2016/2016-05-30-rock-school-lets-rock-the-park-courtney/courtney-acoustic-set-live-at-lets-rock-the-park-2016-03/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
-2016/2016-05-30-rock-school-lets-rock-the-park-courtney/courtney-acoustic-set-live-at-lets-rock-the-park-2016-04/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-castaways/castaways-live-at-lets-rock-the-park-2016-23/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Castaways\Castaways live at Lets Rock the Park 2016 23.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-courtney/courtney-acoustic-set-live-at-lets-rock-the-park-2016-01/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Courtney\Courtney acoustic set live at Lets Rock the Park 2016 01.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-courtney/courtney-acoustic-set-live-at-lets-rock-the-park-2016-02/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Courtney\Courtney acoustic set live at Lets Rock the Park 2016 02.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-courtney/courtney-acoustic-set-live-at-lets-rock-the-park-2016-03/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Courtney\Courtney acoustic set live at Lets Rock the Park 2016 03.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-courtney/courtney-acoustic-set-live-at-lets-rock-the-park-2016-04/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Courtney\Courtney acoustic set live at Lets Rock the Park 2016 04.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-05-30-rock-school-lets-rock-the-park-courtney/courtney-acoustic-set-live-at-lets-rock-the-park-2016-05/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Courtney\Courtney acoustic set live at Lets Rock the Park 2016 05.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-05-30-rock-school-lets-rock-the-park-courtney/courtney-acoustic-set-live-at-lets-rock-the-park-2016-06/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Courtney\Courtney acoustic set live at Lets Rock the Park 2016 06.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-05-30-rock-school-lets-rock-the-park-courtney/courtney-acoustic-set-live-at-lets-rock-the-park-2016-07/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Courtney\Courtney acoustic set live at Lets Rock the Park 2016 07.xmp], Alphaleonis.Win32.NativeError::ThrowException
@@ -3906,7 +3879,8 @@ Parameter name: bytes, GraphicsMagick.MagickImage::Read
 2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo/fm-wo-live-at-lets-rock-the-park-2016-01/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - FM&WO\FM&WO live at Lets Rock the Park 2016 01.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo/fm-wo-live-at-lets-rock-the-park-2016-02/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - FM&WO\FM&WO live at Lets Rock the Park 2016 02.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo/fm-wo-live-at-lets-rock-the-park-2016-03/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - FM&WO\FM&WO live at Lets Rock the Park 2016 03.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo/fm-wo-live-at-lets-rock-the-park-2016-04/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - FM&WO\FM&WO live at Lets Rock the Park 2016 04.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo/fm-wo-live-at-lets-rock-the-park-2016-04/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
 2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo/fm-wo-live-at-lets-rock-the-park-2016-05/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - FM&WO\FM&WO live at Lets Rock the Park 2016 05.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo/fm-wo-live-at-lets-rock-the-park-2016-06/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - FM&WO\FM&WO live at Lets Rock the Park 2016 06.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo/fm-wo-live-at-lets-rock-the-park-2016-07/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - FM&WO\FM&WO live at Lets Rock the Park 2016 07.xmp], Alphaleonis.Win32.NativeError::ThrowException
@@ -3917,85 +3891,144 @@ Parameter name: bytes, GraphicsMagick.MagickImage::Read
 2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo/fm-wo-live-at-lets-rock-the-park-2016-12/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - FM&WO\FM&WO live at Lets Rock the Park 2016 12.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo/fm-wo-live-at-lets-rock-the-park-2016-13/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - FM&WO\FM&WO live at Lets Rock the Park 2016 13.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo/fm-wo-live-at-lets-rock-the-park-2016-14/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - FM&WO\FM&WO live at Lets Rock the Park 2016 14.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo/fm-wo-live-at-lets-rock-the-park-2016-16/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - FM&WO\FM&WO live at Lets Rock the Park 2016 16.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo/fm-wo-live-at-lets-rock-the-park-2016-16/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
 2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo/fm-wo-live-at-lets-rock-the-park-2016-17/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - FM&WO\FM&WO live at Lets Rock the Park 2016 17.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo/fm-wo-live-at-lets-rock-the-park-2016-18/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - FM&WO\FM&WO live at Lets Rock the Park 2016 18.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo/fm-wo-live-at-lets-rock-the-park-2016-18/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
 2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo-second-set/fm-wo-live-at-lets-rock-the-park-2016-01/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - FM&WO second set\FM&WO  live at Lets Rock the Park 2016 01.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo-second-set/fm-wo-live-at-lets-rock-the-park-2016-02/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - FM&WO second set\FM&WO  live at Lets Rock the Park 2016 02.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo-second-set/fm-wo-live-at-lets-rock-the-park-2016-02/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
 2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo-second-set/fm-wo-live-at-lets-rock-the-park-2016-03/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - FM&WO second set\FM&WO  live at Lets Rock the Park 2016 03.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo-second-set/fm-wo-live-at-lets-rock-the-park-2016-04/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - FM&WO second set\FM&WO  live at Lets Rock the Park 2016 04.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo-second-set/fm-wo-live-at-lets-rock-the-park-2016-05/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - FM&WO second set\FM&WO  live at Lets Rock the Park 2016 05.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo-second-set/fm-wo-live-at-lets-rock-the-park-2016-06/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - FM&WO second set\FM&WO  live at Lets Rock the Park 2016 06.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo-second-set/fm-wo-live-at-lets-rock-the-park-2016-07/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - FM&WO second set\FM&WO  live at Lets Rock the Park 2016 07.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo-second-set/fm-wo-live-at-lets-rock-the-park-2016-08/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - FM&WO second set\FM&WO  live at Lets Rock the Park 2016 08.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo-second-set/fm-wo-live-at-lets-rock-the-park-2016-09/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - FM&WO second set\FM&WO  live at Lets Rock the Park 2016 09.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo-second-set/fm-wo-live-at-lets-rock-the-park-2016-10/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - FM&WO second set\FM&WO  live at Lets Rock the Park 2016 10.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo-second-set/fm-wo-live-at-lets-rock-the-park-2016-04/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo-second-set/fm-wo-live-at-lets-rock-the-park-2016-05/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo-second-set/fm-wo-live-at-lets-rock-the-park-2016-06/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo-second-set/fm-wo-live-at-lets-rock-the-park-2016-07/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo-second-set/fm-wo-live-at-lets-rock-the-park-2016-08/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo-second-set/fm-wo-live-at-lets-rock-the-park-2016-09/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo-second-set/fm-wo-live-at-lets-rock-the-park-2016-10/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
 2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo-second-set/fm-wo-live-at-lets-rock-the-park-2016-11/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - FM&WO second set\FM&WO  live at Lets Rock the Park 2016 11.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo-second-set/fm-wo-live-at-lets-rock-the-park-2016-12/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - FM&WO second set\FM&WO  live at Lets Rock the Park 2016 12.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo-second-set/fm-wo-live-at-lets-rock-the-park-2016-13/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - FM&WO second set\FM&WO  live at Lets Rock the Park 2016 13.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo-second-set/fm-wo-live-at-lets-rock-the-park-2016-14/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - FM&WO second set\FM&WO  live at Lets Rock the Park 2016 14.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo-second-set/fm-wo-live-at-lets-rock-the-park-2016-15/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - FM&WO second set\FM&WO  live at Lets Rock the Park 2016 15.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo-second-set/fm-wo-live-at-lets-rock-the-park-2016-16/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - FM&WO second set\FM&WO  live at Lets Rock the Park 2016 16.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-holly-rebekah/holly-rebekah-live-at-lets-rock-the-park-2016-01/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Holly Rebekah\Holly Rebekah live at Lets Rock the Park 2016 01.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-holly-rebekah/holly-rebekah-live-at-lets-rock-the-park-2016-02/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Holly Rebekah\Holly Rebekah live at Lets Rock the Park 2016 02.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-holly-rebekah/holly-rebekah-live-at-lets-rock-the-park-2016-03/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Holly Rebekah\Holly Rebekah live at Lets Rock the Park 2016 03.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-holly-rebekah/holly-rebekah-live-at-lets-rock-the-park-2016-04/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Holly Rebekah\Holly Rebekah live at Lets Rock the Park 2016 04.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-holly-rebekah/holly-rebekah-live-at-lets-rock-the-park-2016-05/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Holly Rebekah\Holly Rebekah live at Lets Rock the Park 2016 05.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-holly-rebekah/holly-rebekah-live-at-lets-rock-the-park-2016-06/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Holly Rebekah\Holly Rebekah live at Lets Rock the Park 2016 06.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-holly-rebekah-second-set/holly-rebekah-live-at-lets-rock-the-park-2016-01/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Holly Rebekah second set\Holly Rebekah live at Lets Rock the Park 2016 01.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-holly-rebekah-second-set/holly-rebekah-live-at-lets-rock-the-park-2016-02/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Holly Rebekah second set\Holly Rebekah live at Lets Rock the Park 2016 02.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-holly-rebekah-second-set/holly-rebekah-live-at-lets-rock-the-park-2016-03/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Holly Rebekah second set\Holly Rebekah live at Lets Rock the Park 2016 03.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-holly-rebekah-second-set/holly-rebekah-live-at-lets-rock-the-park-2016-04/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Holly Rebekah second set\Holly Rebekah live at Lets Rock the Park 2016 04.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-holly-rebekah-second-set/holly-rebekah-live-at-lets-rock-the-park-2016-05/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Holly Rebekah second set\Holly Rebekah live at Lets Rock the Park 2016 05.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-holly-rebekah-second-set/holly-rebekah-live-at-lets-rock-the-park-2016-06/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Holly Rebekah second set\Holly Rebekah live at Lets Rock the Park 2016 06.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-holly-rebekah-second-set/holly-rebekah-live-at-lets-rock-the-park-2016-07/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Holly Rebekah second set\Holly Rebekah live at Lets Rock the Park 2016 07.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-holly-rebekah-second-set/holly-rebekah-live-at-lets-rock-the-park-2016-08/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Holly Rebekah second set\Holly Rebekah live at Lets Rock the Park 2016 08.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-liam-courtney-ryan-no-name-band/liam-courtney-ryan-no-name-band-live-at-lets-rock-the-park-2016-01/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Liam, Courtney, Ryan - No Name Band\Liam, Courtney, Ryan - No Name Band live at Lets Rock the Park 2016 01.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-liam-courtney-ryan-no-name-band/liam-courtney-ryan-no-name-band-live-at-lets-rock-the-park-2016-02/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Liam, Courtney, Ryan - No Name Band\Liam, Courtney, Ryan - No Name Band live at Lets Rock the Park 2016 02.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-liam-courtney-ryan-no-name-band/liam-courtney-ryan-no-name-band-live-at-lets-rock-the-park-2016-03/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Liam, Courtney, Ryan - No Name Band\Liam, Courtney, Ryan - No Name Band live at Lets Rock the Park 2016 03.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-liam-courtney-ryan-no-name-band/liam-courtney-ryan-no-name-band-live-at-lets-rock-the-park-2016-04/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Liam, Courtney, Ryan - No Name Band\Liam, Courtney, Ryan - No Name Band live at Lets Rock the Park 2016 04.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-liam-courtney-ryan-no-name-band/liam-courtney-ryan-no-name-band-live-at-lets-rock-the-park-2016-05/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Liam, Courtney, Ryan - No Name Band\Liam, Courtney, Ryan - No Name Band live at Lets Rock the Park 2016 05.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-liam-courtney-ryan-no-name-band/liam-courtney-ryan-no-name-band-live-at-lets-rock-the-park-2016-06/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Liam, Courtney, Ryan - No Name Band\Liam, Courtney, Ryan - No Name Band live at Lets Rock the Park 2016 06.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-liam-courtney-ryan-no-name-band/liam-courtney-ryan-no-name-band-live-at-lets-rock-the-park-2016-07/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Liam, Courtney, Ryan - No Name Band\Liam, Courtney, Ryan - No Name Band live at Lets Rock the Park 2016 07.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-liam-courtney-ryan-no-name-band/liam-courtney-ryan-no-name-band-live-at-lets-rock-the-park-2016-08/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Liam, Courtney, Ryan - No Name Band\Liam, Courtney, Ryan - No Name Band live at Lets Rock the Park 2016 08.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-liam-courtney-ryan-no-name-band/liam-courtney-ryan-no-name-band-live-at-lets-rock-the-park-2016-09/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Liam, Courtney, Ryan - No Name Band\Liam, Courtney, Ryan - No Name Band live at Lets Rock the Park 2016 09.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-liam-courtney-ryan-no-name-band/liam-courtney-ryan-no-name-band-live-at-lets-rock-the-park-2016-10/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Liam, Courtney, Ryan - No Name Band\Liam, Courtney, Ryan - No Name Band live at Lets Rock the Park 2016 10.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-liam-courtney-ryan-no-name-band/liam-courtney-ryan-no-name-band-live-at-lets-rock-the-park-2016-11/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Liam, Courtney, Ryan - No Name Band\Liam, Courtney, Ryan - No Name Band live at Lets Rock the Park 2016 11.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-liam-courtney-ryan-no-name-band/liam-courtney-ryan-no-name-band-live-at-lets-rock-the-park-2016-12/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Liam, Courtney, Ryan - No Name Band\Liam, Courtney, Ryan - No Name Band live at Lets Rock the Park 2016 12.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-liam-courtney-ryan-no-name-band/liam-courtney-ryan-no-name-band-live-at-lets-rock-the-park-2016-13/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Liam, Courtney, Ryan - No Name Band\Liam, Courtney, Ryan - No Name Band live at Lets Rock the Park 2016 13.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-01/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Revolution Army\Revolution Army live at Lets Rock the Park 2016 01.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-02/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Revolution Army\Revolution Army live at Lets Rock the Park 2016 02.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-03/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Revolution Army\Revolution Army live at Lets Rock the Park 2016 03.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-04/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Revolution Army\Revolution Army live at Lets Rock the Park 2016 04.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-05/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Revolution Army\Revolution Army live at Lets Rock the Park 2016 05.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-06/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Revolution Army\Revolution Army live at Lets Rock the Park 2016 06.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-07/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Revolution Army\Revolution Army live at Lets Rock the Park 2016 07.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-08/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Revolution Army\Revolution Army live at Lets Rock the Park 2016 08.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-09/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Revolution Army\Revolution Army live at Lets Rock the Park 2016 09.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-10/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Revolution Army\Revolution Army live at Lets Rock the Park 2016 10.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-11/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Revolution Army\Revolution Army live at Lets Rock the Park 2016 11.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-12/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Revolution Army\Revolution Army live at Lets Rock the Park 2016 12.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo-second-set/fm-wo-live-at-lets-rock-the-park-2016-15/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-fm-wo-second-set/fm-wo-live-at-lets-rock-the-park-2016-16/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-holly-rebekah/holly-rebekah-live-at-lets-rock-the-park-2016-01/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-holly-rebekah/holly-rebekah-live-at-lets-rock-the-park-2016-02/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-holly-rebekah/holly-rebekah-live-at-lets-rock-the-park-2016-03/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-holly-rebekah/holly-rebekah-live-at-lets-rock-the-park-2016-04/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-holly-rebekah/holly-rebekah-live-at-lets-rock-the-park-2016-05/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-holly-rebekah/holly-rebekah-live-at-lets-rock-the-park-2016-06/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-holly-rebekah-second-set/holly-rebekah-live-at-lets-rock-the-park-2016-01/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-holly-rebekah-second-set/holly-rebekah-live-at-lets-rock-the-park-2016-02/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-holly-rebekah-second-set/holly-rebekah-live-at-lets-rock-the-park-2016-03/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-holly-rebekah-second-set/holly-rebekah-live-at-lets-rock-the-park-2016-04/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-holly-rebekah-second-set/holly-rebekah-live-at-lets-rock-the-park-2016-05/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-holly-rebekah-second-set/holly-rebekah-live-at-lets-rock-the-park-2016-06/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-holly-rebekah-second-set/holly-rebekah-live-at-lets-rock-the-park-2016-07/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-holly-rebekah-second-set/holly-rebekah-live-at-lets-rock-the-park-2016-08/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-liam-courtney-ryan-no-name-band/liam-courtney-ryan-no-name-band-live-at-lets-rock-the-park-2016-01/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-liam-courtney-ryan-no-name-band/liam-courtney-ryan-no-name-band-live-at-lets-rock-the-park-2016-02/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-liam-courtney-ryan-no-name-band/liam-courtney-ryan-no-name-band-live-at-lets-rock-the-park-2016-03/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-liam-courtney-ryan-no-name-band/liam-courtney-ryan-no-name-band-live-at-lets-rock-the-park-2016-04/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-liam-courtney-ryan-no-name-band/liam-courtney-ryan-no-name-band-live-at-lets-rock-the-park-2016-05/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-liam-courtney-ryan-no-name-band/liam-courtney-ryan-no-name-band-live-at-lets-rock-the-park-2016-06/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-liam-courtney-ryan-no-name-band/liam-courtney-ryan-no-name-band-live-at-lets-rock-the-park-2016-07/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-liam-courtney-ryan-no-name-band/liam-courtney-ryan-no-name-band-live-at-lets-rock-the-park-2016-08/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-liam-courtney-ryan-no-name-band/liam-courtney-ryan-no-name-band-live-at-lets-rock-the-park-2016-09/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-liam-courtney-ryan-no-name-band/liam-courtney-ryan-no-name-band-live-at-lets-rock-the-park-2016-10/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-liam-courtney-ryan-no-name-band/liam-courtney-ryan-no-name-band-live-at-lets-rock-the-park-2016-11/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-liam-courtney-ryan-no-name-band/liam-courtney-ryan-no-name-band-live-at-lets-rock-the-park-2016-12/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-liam-courtney-ryan-no-name-band/liam-courtney-ryan-no-name-band-live-at-lets-rock-the-park-2016-13/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-01/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-02/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-03/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-04/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-05/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-06/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-07/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-08/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-09/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-10/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-11/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-12/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
 2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-13/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
 2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-14/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-15/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Revolution Army\Revolution Army live at Lets Rock the Park 2016 15.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-15/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
 2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-16/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-17/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Revolution Army\Revolution Army live at Lets Rock the Park 2016 17.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-17/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
 2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-18/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-19/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Revolution Army\Revolution Army live at Lets Rock the Park 2016 19.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-19/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
 2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-20/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
 2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-21/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-22/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
-2016/2016-05-30-rock-school-lets-rock-the-park-rock-school-finale/finale-at-lets-rock-the-park-2016-01/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
-2016/2016-05-30-rock-school-lets-rock-the-park-rock-school-finale/finale-at-lets-rock-the-park-2016-02/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
-2016/2016-05-30-rock-school-lets-rock-the-park-rock-school-finale/finale-at-lets-rock-the-park-2016-03/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
-2016/2016-05-30-rock-school-lets-rock-the-park-rock-school-finale/finale-at-lets-rock-the-park-2016-04/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
-2016/2016-05-30-rock-school-lets-rock-the-park-rock-school-finale/finale-at-lets-rock-the-park-2016-05/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
+2016/2016-05-30-rock-school-lets-rock-the-park-revolution-army/revolution-army-live-at-lets-rock-the-park-2016-22/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-rock-school-finale/finale-at-lets-rock-the-park-2016-01/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-rock-school-finale/finale-at-lets-rock-the-park-2016-02/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-rock-school-finale/finale-at-lets-rock-the-park-2016-03/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-rock-school-finale/finale-at-lets-rock-the-park-2016-04/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-rock-school-finale/finale-at-lets-rock-the-park-2016-05/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
 2016/2016-05-30-rock-school-lets-rock-the-park-rock-school-finale/finale-at-lets-rock-the-park-2016-06/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
 2016/2016-05-30-rock-school-lets-rock-the-park-rock-school-finale/finale-at-lets-rock-the-park-2016-07/, An unexpected network error occurred.
@@ -4018,11 +4051,14 @@ Parameter name: bytes, GraphicsMagick.MagickImage::Read
 , System.IO.__Error::WinIOError
 2016/2016-05-30-rock-school-lets-rock-the-park-small-talk/small-talk-live-at-lets-rock-the-park-2016-06/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-small-talk/small-talk-live-at-lets-rock-the-park-2016-07/, The network path was not found.
+2016/2016-05-30-rock-school-lets-rock-the-park-small-talk/small-talk-live-at-lets-rock-the-park-2016-07/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
-2016/2016-05-30-rock-school-lets-rock-the-park-small-talk/small-talk-live-at-lets-rock-the-park-2016-08/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Small Talk\Small Talk live at Lets Rock the Park 2016 08.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-small-talk/small-talk-live-at-lets-rock-the-park-2016-09/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Small Talk\Small Talk live at Lets Rock the Park 2016 09.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-05-30-rock-school-lets-rock-the-park-small-talk/small-talk-live-at-lets-rock-the-park-2016-10/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-05-30 Rock School - Lets Rock The Park - Small Talk\Small Talk live at Lets Rock the Park 2016 10.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-05-30-rock-school-lets-rock-the-park-small-talk/small-talk-live-at-lets-rock-the-park-2016-08/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-small-talk/small-talk-live-at-lets-rock-the-park-2016-09/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-05-30-rock-school-lets-rock-the-park-small-talk/small-talk-live-at-lets-rock-the-park-2016-10/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
 2016/2016-05-30-rock-school-lets-rock-the-park-small-talk/small-talk-live-at-lets-rock-the-park-2016-11/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
 2016/2016-05-30-rock-school-lets-rock-the-park-small-talk/small-talk-live-at-lets-rock-the-park-2016-12/, An unexpected network error occurred.
@@ -4241,6 +4277,16 @@ Parameter name: bytes, GraphicsMagick.MagickImage::Read
 , System.IO.__Error::WinIOError
 2016/2016-06-04-beggar-at-the-shark-harlow/beggar-live-at-the-shark-harlow-32/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
+2016/2016-06-04-tring-and-the-ridgeway/tring-and-the-ridgeway-walk-101/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-06-04 Tring and The Ridgeway\Tring and the ridgeway walk 101.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-06-04-tring-and-the-ridgeway/tring-and-the-ridgeway-walk-102/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-06-04 Tring and The Ridgeway\Tring and the ridgeway walk 102.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-06-04-tring-and-the-ridgeway/tring-and-the-ridgeway-walk-103/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-06-04 Tring and The Ridgeway\Tring and the ridgeway walk 103.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-06-04-tring-and-the-ridgeway/tring-and-the-ridgeway-walk-104/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-06-04 Tring and The Ridgeway\Tring and the ridgeway walk 104.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-06-04-tring-and-the-ridgeway/tring-and-the-ridgeway-walk-105/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-06-04 Tring and The Ridgeway\Tring and the ridgeway walk 105.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-06-04-tring-and-the-ridgeway/tring-and-the-ridgeway-walk-106/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-06-04 Tring and The Ridgeway\Tring and the ridgeway walk 106.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-06-04-tring-and-the-ridgeway/tring-and-the-ridgeway-walk-11/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-06-04 Tring and The Ridgeway\Tring and the ridgeway walk 11.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-06-04-tring-and-the-ridgeway/tring-and-the-ridgeway-walk-12/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-06-04 Tring and The Ridgeway\Tring and the ridgeway walk 12.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-06-04-tring-and-the-ridgeway/tring-and-the-ridgeway-walk-13/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-06-04 Tring and The Ridgeway\Tring and the ridgeway walk 13.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-06-04-tring-and-the-ridgeway/tring-and-the-ridgeway-walk-14/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-06-04 Tring and The Ridgeway\Tring and the ridgeway walk 14.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-06-04-tring-and-the-ridgeway/tring-and-the-ridgeway-walk-15/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-06-04 Tring and The Ridgeway\Tring and the ridgeway walk 15.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-06-04-tring-and-the-ridgeway/tring-and-the-ridgeway-walk-16/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-06-04 Tring and The Ridgeway\Tring and the ridgeway walk 16.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-06-04-tring-and-the-ridgeway/tring-and-the-ridgeway-walk-17/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-06-04 Tring and The Ridgeway\Tring and the ridgeway walk 17.xmp], Alphaleonis.Win32.NativeError::ThrowException
