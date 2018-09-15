@@ -4290,54 +4290,41 @@ Parameter name: bytes, GraphicsMagick.MagickImage::Read
 2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-05/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
 2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-06/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
 2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-07/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
-2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-08/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
+2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-08/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
 2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-09/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
-2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-10/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-11/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
+2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-10/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
+2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-11/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
 2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-12/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
-2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-13/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
-2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-14/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
-2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-15/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
-2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-16/, An unexpected network error occurred.
+2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-13/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
+2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-14/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-15/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-16/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-07-30 Anthem at the Essex Skipper, Harlow\Anthem at the Essex Skipper 16.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-17/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
 2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-18/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
-2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-19/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
+2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-19/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-07-30 Anthem at the Essex Skipper, Harlow\Anthem at the Essex Skipper 19.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-20/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
-2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-21/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
+2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-21/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-07-30 Anthem at the Essex Skipper, Harlow\Anthem at the Essex Skipper 21.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-22/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
-2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-23/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
+2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-23/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-07-30 Anthem at the Essex Skipper, Harlow\Anthem at the Essex Skipper 23.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-24/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-07-30 Anthem at the Essex Skipper, Harlow\Anthem at the Essex Skipper 24.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-25/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-26/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-27/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-28/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-29/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-30/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
+2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-25/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-07-30 Anthem at the Essex Skipper, Harlow\Anthem at the Essex Skipper 25.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-26/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-07-30 Anthem at the Essex Skipper, Harlow\Anthem at the Essex Skipper 26.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-27/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-07-30 Anthem at the Essex Skipper, Harlow\Anthem at the Essex Skipper 27.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-28/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-07-30 Anthem at the Essex Skipper, Harlow\Anthem at the Essex Skipper 28.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-29/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-07-30 Anthem at the Essex Skipper, Harlow\Anthem at the Essex Skipper 29.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-30/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-07-30 Anthem at the Essex Skipper, Harlow\Anthem at the Essex Skipper 30.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-31/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-07-30 Anthem at the Essex Skipper, Harlow\Anthem at the Essex Skipper 31.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-32/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-07-30 Anthem at the Essex Skipper, Harlow\Anthem at the Essex Skipper 32.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-33/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-34/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
-2016/2016-08-13-captured-at-the-essex-skipper/captured-at-the-essex-skipper-01/, An unexpected network error occurred.
-, System.IO.__Error::WinIOError
+2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-33/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-07-30 Anthem at the Essex Skipper, Harlow\Anthem at the Essex Skipper 33.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-07-30-anthem-at-the-essex-skipper-harlow/anthem-at-the-essex-skipper-34/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-07-30 Anthem at the Essex Skipper, Harlow\Anthem at the Essex Skipper 34.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-08-13-captured-at-the-essex-skipper/captured-at-the-essex-skipper-01/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-13 Captured at The Essex Skipper\Captured at the Essex Skipper 01.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-08-13-captured-at-the-essex-skipper/captured-at-the-essex-skipper-02/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-13 Captured at The Essex Skipper\Captured at the Essex Skipper 02.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-08-13-captured-at-the-essex-skipper/captured-at-the-essex-skipper-03/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-13 Captured at The Essex Skipper\Captured at the Essex Skipper 03.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-08-13-captured-at-the-essex-skipper/captured-at-the-essex-skipper-04/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-13 Captured at The Essex Skipper\Captured at the Essex Skipper 04.xmp], Alphaleonis.Win32.NativeError::ThrowException
@@ -4377,7 +4364,7 @@ Parameter name: bytes, GraphicsMagick.MagickImage::Read
 2016/2016-08-20-crimson-ties-at-the-essex-skipper-harlow/crimson-ties-live-at-the-essex-skipper-harlow-20/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-20 Crimson Ties at The Essex Skipper, Harlow\Crimson Ties live at the Essex Skipper, Harlow 20.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-08-20-crimson-ties-at-the-essex-skipper-harlow/crimson-ties-live-at-the-essex-skipper-harlow-21/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
-2016/2016-08-20-crimson-ties-at-the-essex-skipper-harlow/crimson-ties-live-at-the-essex-skipper-harlow-22/, Object reference not set to an instance of an object., System.Drawing.PSD.ImageDecoder::DecodeImage
+2016/2016-08-20-crimson-ties-at-the-essex-skipper-harlow/crimson-ties-live-at-the-essex-skipper-harlow-22/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-20 Crimson Ties at The Essex Skipper, Harlow\Crimson Ties live at the Essex Skipper, Harlow 22.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-08-20-crimson-ties-at-the-essex-skipper-harlow/crimson-ties-live-at-the-essex-skipper-harlow-23/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-20 Crimson Ties at The Essex Skipper, Harlow\Crimson Ties live at the Essex Skipper, Harlow 23.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-08-20-crimson-ties-at-the-essex-skipper-harlow/crimson-ties-live-at-the-essex-skipper-harlow-24/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-20 Crimson Ties at The Essex Skipper, Harlow\Crimson Ties live at the Essex Skipper, Harlow 24.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-08-20-crimson-ties-at-the-essex-skipper-harlow/crimson-ties-live-at-the-essex-skipper-harlow-25/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-20 Crimson Ties at The Essex Skipper, Harlow\Crimson Ties live at the Essex Skipper, Harlow 25.xmp], Alphaleonis.Win32.NativeError::ThrowException
@@ -4389,8 +4376,10 @@ Parameter name: bytes, GraphicsMagick.MagickImage::Read
 2016/2016-08-26-steve-forward-at-the-essex-skipper-harlow/steve-forward-live-at-the-essex-skipper-harlow-01/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-26 Steve Forward at the Essex Skipper, Harlow\Steve Forward live at the Essex Skipper, Harlow 01.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-08-26-steve-forward-at-the-essex-skipper-harlow/steve-forward-live-at-the-essex-skipper-harlow-02/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
-2016/2016-08-26-steve-forward-at-the-essex-skipper-harlow/steve-forward-live-at-the-essex-skipper-harlow-03/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-26 Steve Forward at the Essex Skipper, Harlow\Steve Forward live at the Essex Skipper, Harlow 03.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-26-steve-forward-at-the-essex-skipper-harlow/steve-forward-live-at-the-essex-skipper-harlow-04/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-26 Steve Forward at the Essex Skipper, Harlow\Steve Forward live at the Essex Skipper, Harlow 04.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-08-26-steve-forward-at-the-essex-skipper-harlow/steve-forward-live-at-the-essex-skipper-harlow-03/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-26-steve-forward-at-the-essex-skipper-harlow/steve-forward-live-at-the-essex-skipper-harlow-04/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
 2016/2016-08-26-steve-forward-at-the-essex-skipper-harlow/steve-forward-live-at-the-essex-skipper-harlow-05/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-26 Steve Forward at the Essex Skipper, Harlow\Steve Forward live at the Essex Skipper, Harlow 05.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-08-26-steve-forward-at-the-essex-skipper-harlow/steve-forward-live-at-the-essex-skipper-harlow-06/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-26 Steve Forward at the Essex Skipper, Harlow\Steve Forward live at the Essex Skipper, Harlow 06.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-08-26-steve-forward-at-the-essex-skipper-harlow/steve-forward-live-at-the-essex-skipper-harlow-07/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-26 Steve Forward at the Essex Skipper, Harlow\Steve Forward live at the Essex Skipper, Harlow 07.xmp], Alphaleonis.Win32.NativeError::ThrowException
@@ -4398,23 +4387,34 @@ Parameter name: bytes, GraphicsMagick.MagickImage::Read
 2016/2016-08-26-steve-forward-at-the-essex-skipper-harlow/steve-forward-live-at-the-essex-skipper-harlow-09/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-26 Steve Forward at the Essex Skipper, Harlow\Steve Forward live at the Essex Skipper, Harlow 09.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-08-26-steve-forward-at-the-essex-skipper-harlow/steve-forward-live-at-the-essex-skipper-harlow-11/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-26 Steve Forward at the Essex Skipper, Harlow\Steve Forward live at the Essex Skipper, Harlow 11.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-08-26-steve-forward-at-the-essex-skipper-harlow/steve-forward-live-at-the-essex-skipper-harlow-12/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-26 Steve Forward at the Essex Skipper, Harlow\Steve Forward live at the Essex Skipper, Harlow 12.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-26-steve-forward-at-the-essex-skipper-harlow/steve-forward-live-at-the-essex-skipper-harlow-13/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-26 Steve Forward at the Essex Skipper, Harlow\Steve Forward live at the Essex Skipper, Harlow 13.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-26-steve-forward-at-the-essex-skipper-harlow/steve-forward-live-at-the-essex-skipper-harlow-14/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-26 Steve Forward at the Essex Skipper, Harlow\Steve Forward live at the Essex Skipper, Harlow 14.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-26-steve-forward-at-the-essex-skipper-harlow/steve-forward-live-at-the-essex-skipper-harlow-15/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-26 Steve Forward at the Essex Skipper, Harlow\Steve Forward live at the Essex Skipper, Harlow 15.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-27-the-purple-sound-at-the-essex-skipper-harlow/the-purple-sound-live-at-the-essex-skipper-harlow-01/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-27 The Purple Sound at The Essex Skipper, Harlow\The Purple Sound live at the Essex Skipper, Harlow 01.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-27-the-purple-sound-at-the-essex-skipper-harlow/the-purple-sound-live-at-the-essex-skipper-harlow-02/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-27 The Purple Sound at The Essex Skipper, Harlow\The Purple Sound live at the Essex Skipper, Harlow 02.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-27-the-purple-sound-at-the-essex-skipper-harlow/the-purple-sound-live-at-the-essex-skipper-harlow-03/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-27 The Purple Sound at The Essex Skipper, Harlow\The Purple Sound live at the Essex Skipper, Harlow 03.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-27-the-purple-sound-at-the-essex-skipper-harlow/the-purple-sound-live-at-the-essex-skipper-harlow-04/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-27 The Purple Sound at The Essex Skipper, Harlow\The Purple Sound live at the Essex Skipper, Harlow 04.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-27-the-purple-sound-at-the-essex-skipper-harlow/the-purple-sound-live-at-the-essex-skipper-harlow-05/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-27 The Purple Sound at The Essex Skipper, Harlow\The Purple Sound live at the Essex Skipper, Harlow 05.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-27-the-purple-sound-at-the-essex-skipper-harlow/the-purple-sound-live-at-the-essex-skipper-harlow-06/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-27 The Purple Sound at The Essex Skipper, Harlow\The Purple Sound live at the Essex Skipper, Harlow 06.xmp], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-27-the-purple-sound-at-the-essex-skipper-harlow/the-purple-sound-live-at-the-essex-skipper-harlow-07/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-27 The Purple Sound at The Essex Skipper, Harlow\The Purple Sound live at the Essex Skipper, Harlow 07.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-08-26-steve-forward-at-the-essex-skipper-harlow/steve-forward-live-at-the-essex-skipper-harlow-13/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-26-steve-forward-at-the-essex-skipper-harlow/steve-forward-live-at-the-essex-skipper-harlow-14/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-26-steve-forward-at-the-essex-skipper-harlow/steve-forward-live-at-the-essex-skipper-harlow-15/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-27-the-purple-sound-at-the-essex-skipper-harlow/the-purple-sound-live-at-the-essex-skipper-harlow-01/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-27-the-purple-sound-at-the-essex-skipper-harlow/the-purple-sound-live-at-the-essex-skipper-harlow-02/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-27-the-purple-sound-at-the-essex-skipper-harlow/the-purple-sound-live-at-the-essex-skipper-harlow-03/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-27-the-purple-sound-at-the-essex-skipper-harlow/the-purple-sound-live-at-the-essex-skipper-harlow-04/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-27-the-purple-sound-at-the-essex-skipper-harlow/the-purple-sound-live-at-the-essex-skipper-harlow-05/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-27-the-purple-sound-at-the-essex-skipper-harlow/the-purple-sound-live-at-the-essex-skipper-harlow-06/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-27-the-purple-sound-at-the-essex-skipper-harlow/the-purple-sound-live-at-the-essex-skipper-harlow-07/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
 2016/2016-08-27-the-purple-sound-at-the-essex-skipper-harlow/the-purple-sound-live-at-the-essex-skipper-harlow-08/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
 2016/2016-08-27-the-purple-sound-at-the-essex-skipper-harlow/the-purple-sound-live-at-the-essex-skipper-harlow-09/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
 2016/2016-08-27-the-purple-sound-at-the-essex-skipper-harlow/the-purple-sound-live-at-the-essex-skipper-harlow-10/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
-2016/2016-08-27-the-purple-sound-at-the-essex-skipper-harlow/the-purple-sound-live-at-the-essex-skipper-harlow-11/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-27 The Purple Sound at The Essex Skipper, Harlow\The Purple Sound live at the Essex Skipper, Harlow 11.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-08-27-the-purple-sound-at-the-essex-skipper-harlow/the-purple-sound-live-at-the-essex-skipper-harlow-11/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
 2016/2016-08-27-the-purple-sound-at-the-essex-skipper-harlow/the-purple-sound-live-at-the-essex-skipper-harlow-12/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
 2016/2016-08-27-the-purple-sound-at-the-essex-skipper-harlow/the-purple-sound-live-at-the-essex-skipper-harlow-13/, An unexpected network error occurred.
@@ -4771,51 +4771,98 @@ Parameter name: bytes, GraphicsMagick.MagickImage::Read
 , System.IO.__Error::WinIOError
 2016/2016-08-28-linkfest-remark/remark-at-linkfest-harlow-04/, An unexpected network error occurred.
 , System.IO.__Error::WinIOError
-2016/2016-08-28-linkfest-remark/remark-at-linkfest-harlow-05/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Remark\ReMark at Linkfest Harlow 05.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-remark/remark-at-linkfest-harlow-06/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Remark\ReMark at Linkfest Harlow 06.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-remark/remark-at-linkfest-harlow-07/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Remark\ReMark at Linkfest Harlow 07.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-remark/remark-at-linkfest-harlow-08/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Remark\ReMark at Linkfest Harlow 08.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-remark/remark-at-linkfest-harlow-09/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Remark\ReMark at Linkfest Harlow 09.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-remark/remark-at-linkfest-harlow-10/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Remark\ReMark at Linkfest Harlow 10.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-remark/remark-at-linkfest-harlow-11/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Remark\ReMark at Linkfest Harlow 11.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-remark/remark-at-linkfest-harlow-12/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Remark\ReMark at Linkfest Harlow 12.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-remark/remark-at-linkfest-harlow-13/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Remark\ReMark at Linkfest Harlow 13.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-01/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Seven Dials Circus\Seven Dials Circus at Linkfest Harlow 01.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-06/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Seven Dials Circus\Seven Dials Circus at Linkfest Harlow 06.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-07/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Seven Dials Circus\Seven Dials Circus at Linkfest Harlow 07.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-08/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Seven Dials Circus\Seven Dials Circus at Linkfest Harlow 08.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-09/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Seven Dials Circus\Seven Dials Circus at Linkfest Harlow 09.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-10/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Seven Dials Circus\Seven Dials Circus at Linkfest Harlow 10.rw2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-11/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Seven Dials Circus\Seven Dials Circus at Linkfest Harlow 11.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-12/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Seven Dials Circus\Seven Dials Circus at Linkfest Harlow 12.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-13/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Seven Dials Circus\Seven Dials Circus at Linkfest Harlow 13.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-14/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Seven Dials Circus\Seven Dials Circus at Linkfest Harlow 14.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-15/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Seven Dials Circus\Seven Dials Circus at Linkfest Harlow 15.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-16/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Seven Dials Circus\Seven Dials Circus at Linkfest Harlow 16.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-17/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Seven Dials Circus\Seven Dials Circus at Linkfest Harlow 17.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-18/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Seven Dials Circus\Seven Dials Circus at Linkfest Harlow 18.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-19/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Seven Dials Circus\Seven Dials Circus at Linkfest Harlow 19.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-20/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Seven Dials Circus\Seven Dials Circus at Linkfest Harlow 20.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-21/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Seven Dials Circus\Seven Dials Circus at Linkfest Harlow 21.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-22/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Seven Dials Circus\Seven Dials Circus at Linkfest Harlow 22.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-23/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Seven Dials Circus\Seven Dials Circus at Linkfest Harlow 23.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-24/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Seven Dials Circus\Seven Dials Circus at Linkfest Harlow 24.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-25/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Seven Dials Circus\Seven Dials Circus at Linkfest Harlow 25.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-26/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Seven Dials Circus\Seven Dials Circus at Linkfest Harlow 26.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-27/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Seven Dials Circus\Seven Dials Circus at Linkfest Harlow 27.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-steve-forward/steve-forward-at-linkfest-harlow-01/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Steve Forward\Steve Forward at Linkfest Harlow 01.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-steve-forward/steve-forward-at-linkfest-harlow-02/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Steve Forward\Steve Forward at Linkfest Harlow 02.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-steve-forward/steve-forward-at-linkfest-harlow-03/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Steve Forward\Steve Forward at Linkfest Harlow 03.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-steve-forward/steve-forward-at-linkfest-harlow-04/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Steve Forward\Steve Forward at Linkfest Harlow 04.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-steve-forward/steve-forward-at-linkfest-harlow-05/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Steve Forward\Steve Forward at Linkfest Harlow 05.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-steve-forward/steve-forward-at-linkfest-harlow-06/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Steve Forward\Steve Forward at Linkfest Harlow 06.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-steve-forward/steve-forward-at-linkfest-harlow-07/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Steve Forward\Steve Forward at Linkfest Harlow 07.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-steve-forward/steve-forward-at-linkfest-harlow-08/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Steve Forward\Steve Forward at Linkfest Harlow 08.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-steve-forward/steve-forward-at-linkfest-harlow-09/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Steve Forward\Steve Forward at Linkfest Harlow 09.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-steve-forward/steve-forward-at-linkfest-harlow-10/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Steve Forward\Steve Forward at Linkfest Harlow 10.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-steve-forward/steve-forward-at-linkfest-harlow-11/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Steve Forward\Steve Forward at Linkfest Harlow 11.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-steve-forward/steve-forward-at-linkfest-harlow-12/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - Steve Forward\Steve Forward at Linkfest Harlow 12.cr2], Alphaleonis.Win32.NativeError::ThrowException
-2016/2016-08-28-linkfest-the-audience/the-audience-of-august-2016-linkfest-01/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - The Audience\The audience of August 2016 Linkfest 01.cr2], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-08-28-linkfest-remark/remark-at-linkfest-harlow-05/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-remark/remark-at-linkfest-harlow-06/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-remark/remark-at-linkfest-harlow-07/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-remark/remark-at-linkfest-harlow-08/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-remark/remark-at-linkfest-harlow-09/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-remark/remark-at-linkfest-harlow-10/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-remark/remark-at-linkfest-harlow-11/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-remark/remark-at-linkfest-harlow-12/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-remark/remark-at-linkfest-harlow-13/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-01/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-06/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-07/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-08/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-09/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-10/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-11/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-12/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-13/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-14/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-15/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-16/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-17/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-18/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-19/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-20/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-21/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-22/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-23/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-24/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-25/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-26/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-seven-dials-circus/seven-dials-circus-at-linkfest-harlow-27/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-steve-forward/steve-forward-at-linkfest-harlow-01/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-steve-forward/steve-forward-at-linkfest-harlow-02/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-steve-forward/steve-forward-at-linkfest-harlow-03/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-steve-forward/steve-forward-at-linkfest-harlow-04/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-steve-forward/steve-forward-at-linkfest-harlow-05/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-steve-forward/steve-forward-at-linkfest-harlow-06/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-steve-forward/steve-forward-at-linkfest-harlow-07/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-steve-forward/steve-forward-at-linkfest-harlow-08/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-steve-forward/steve-forward-at-linkfest-harlow-09/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-steve-forward/steve-forward-at-linkfest-harlow-10/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-steve-forward/steve-forward-at-linkfest-harlow-11/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-steve-forward/steve-forward-at-linkfest-harlow-12/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-the-audience/the-audience-of-august-2016-linkfest-01/, An unexpected network error occurred.
+, System.IO.__Error::WinIOError
+2016/2016-08-28-linkfest-the-audience/the-audience-of-august-2016-linkfest-06/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - The Audience\The audience of August 2016 Linkfest 06.xmp], Alphaleonis.Win32.NativeError::ThrowException
+2016/2016-08-28-linkfest-the-audience/the-audience-of-august-2016-linkfest-07/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - The Audience\The audience of August 2016 Linkfest 07.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-08-28-linkfest-the-audience/the-audience-of-august-2016-linkfest-08/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - The Audience\The audience of August 2016 Linkfest 08.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-08-28-linkfest-the-audience/the-audience-of-august-2016-linkfest-09/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - The Audience\The audience of August 2016 Linkfest 09.xmp], Alphaleonis.Win32.NativeError::ThrowException
 2016/2016-08-28-linkfest-the-audience/the-audience-of-august-2016-linkfest-10/, (53) The network path was not found: [\\?\I:\Photos\Sorted\2016\2016-08-28 Linkfest - The Audience\The audience of August 2016 Linkfest 10.xmp], Alphaleonis.Win32.NativeError::ThrowException
